@@ -347,11 +347,11 @@ public class ConnectionView extends JFrame {
 		if(multicast) {
 
 			txtRemoteIp.setText(
-					"230.0.0.1"
+					"224.0.0.1"
 					);
 
 			txtRemotePort.setText(
-					"5000"
+					"1027"
 					);
 
 		} else {
