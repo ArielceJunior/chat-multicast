@@ -75,11 +75,11 @@ Participante 1:
 
 Participante 2:
 
-* Nome: João
+* Nome: Rafael
 
 Participante 3:
 
-* Nome: Maria
+* Nome: Guilherme
 
 As mensagens enviadas por qualquer participante serão recebidas por todos os membros do grupo.
 
